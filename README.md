@@ -1,6 +1,6 @@
  
 <p align="center">
-  <strong>✅ Finalizado - 9 de setembro de 2026</strong>
+  <strong>✅ Finalizado - 09/09/2026</strong>
 </p>
 
  
