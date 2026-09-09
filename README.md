@@ -1,6 +1,14 @@
-# 🚀 Projeto Finalizado
+ 
+<p align="center">
+  <strong>✅ Finalizado</strong>
+</p>
 
-📅 **Data:** 9 de setembro de 2026
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge" alt="Status: Finalizado">
+  <img src="https://img.shields.io/badge/Data-2023-blue?style=for-the-badge" alt=" 9 de setembro de 2026">
+</p>
+
+ 
 
 🛠️ Esse projeto foi feito bastante rápido. Aproveitei um layout que eu já tinha desenvolvido para outra ONG e o apliquei a esta ONG, pois percebi que ele se encaixaria bem no projeto. A partir disso, o restante foi extremamente simples.
  Por esse motivo, não vou documentar detalhes muito básicos e irrelevantes, como a inserção de imagens, vídeos, links e outros tipos de conteúdo. A única coisa diferente foi a paleta de cores, que foi definida a partir das cores presentes na logo da ONG.
