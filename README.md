@@ -21,6 +21,8 @@
 <p align="center">
   <img width="1323" height="3944" alt="Projeto completo" src="https://github.com/user-attachments/assets/6ede2687-2488-4b65-a698-c0fd5fae242c" />
 </p>
+
+
 # Licença — Todos os Direitos Reservados
 
 Copyright © 2026. Todos os direitos reservados.
