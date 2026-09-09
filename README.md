@@ -1,13 +1,9 @@
  
 <p align="center">
-  <strong>✅ Finalizado</strong>
+  <strong>✅ Finalizado - 9 de setembro de 2026</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge" alt="Status: Finalizado">
-  <img src="https://img.shields.io/badge/Data-2023-blue?style=for-the-badge" alt=" 9 de setembro de 2026">
-</p>
-
+ 
  
 
 🛠️ Esse projeto foi feito bastante rápido. Aproveitei um layout que eu já tinha desenvolvido para outra ONG e o apliquei a esta ONG, pois percebi que ele se encaixaria bem no projeto. A partir disso, o restante foi extremamente simples.
