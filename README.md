@@ -21,3 +21,28 @@
 <p align="center">
   <img width="1323" height="3944" alt="Projeto completo" src="https://github.com/user-attachments/assets/6ede2687-2488-4b65-a698-c0fd5fae242c" />
 </p>
+# Licença — Todos os Direitos Reservados
+
+Copyright © 2026. Todos os direitos reservados.
+
+Este repositório é disponibilizado exclusivamente para fins de visualização e consulta.
+
+É permitido:
+
+* Visualizar o conteúdo deste repositório.
+* Consultar a estrutura e a organização do projeto.
+
+Não é permitido, sem autorização prévia e expressa do autor:
+
+* Copiar o código-fonte ou qualquer parte deste projeto.
+* Modificar, adaptar ou criar trabalhos derivados.
+* Redistribuir ou republicar o código.
+* Utilizar o código, total ou parcialmente, em outros projetos.
+* Utilizar o projeto para fins comerciais ou não comerciais.
+* Reivindicar autoria sobre qualquer parte deste projeto.
+
+A visualização pública deste repositório não constitui concessão de licença, autorização de uso, direitos autorais ou quaisquer outros direitos sobre o conteúdo.
+
+Qualquer utilização além da simples visualização e consulta requer autorização prévia do detentor dos direitos autorais.
+
+**Uso não autorizado não é permitido.**
